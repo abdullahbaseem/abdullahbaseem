@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 📌 About Me:
-- Studying Computer Systems Engineering @ Carleton University
+- Graduated from Computer Systems Engineering @ Carleton University
 - Experience with embedded programming 🖥️, devops ☁️, and automation 🤖
 
 ### 📫 Contact:
